@@ -19,6 +19,7 @@ sort_text = ''
 for item in text:
     if item.isalpha() or item == ' ':
         sort_text += item
+print(sort_text)
 lst_word = sort_text.lower().split()
 
 dict_wrd = {}
