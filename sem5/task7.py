@@ -34,7 +34,7 @@ def isprime2(count_num):
     while cnt < count_num:
         prime_num += 2
 
-        for i in range(3, int(prime_num ** 0.5), 2):
+        for i in range(3, int(prime_num), 2):
             if prime_num % i == 0:
                 break
         else:
