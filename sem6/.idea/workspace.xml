@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b2dc9c9-af03-4d24-be78-2b2dbbd6b174" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hw5/.idea/hw5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw7/.idea/hw7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem5/.idea/sem5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw3/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sem4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sem5/task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem5/task7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/jv31wgk77cc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/ramdon_name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/random_numbers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem7/task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem7/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem7/task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem7/task6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem7/task7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/ybe1od88rdwc.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,27 +38,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2oZ5rbJkNV8sEt5jHB3Tf464rNM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.task1.executor": "Run",
-    "Python.task2.executor": "Run",
-    "Python.task3.executor": "Run",
-    "Python.task4.executor": "Run",
-    "Python.task5.executor": "Run",
-    "Python.task6.executor": "Run",
-    "Python.task7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.check_date">
     <configuration name="check_date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sem6" />
