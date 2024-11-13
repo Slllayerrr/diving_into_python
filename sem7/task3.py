@@ -7,6 +7,8 @@
 
 from typing import TextIO
 
+__all__ = ['read_or_begin', 'convert']
+
 
 def read_or_begin(fd: TextIO) -> str:
     text = fd.readline()
@@ -35,4 +37,5 @@ def convert(numbers: str, names: str, result: str) -> None:
                 f_result.write(f'{name.upper()} {int(mult)} \n')
 
 
-convert('random_numbers.txt', 'ramdon_name.txt', 'result.txt')
+if __name__ == '__main__':
+    convert('random_numbers.txt', 'ramdon_name.txt', 'result.txt')

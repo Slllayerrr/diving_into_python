@@ -8,6 +8,8 @@ from string import ascii_lowercase, digits
 from pathlib import Path
 from os import chdir
 
+__all__ = ['create_file', 'gen_files']
+
 
 def create_file(
         expansion: str = 'bin',

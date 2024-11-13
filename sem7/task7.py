@@ -3,6 +3,8 @@
 # ✔ В исходной папке должны остаться только те файлы, которые не подошли для сортировки.
 import os
 
+__all__ = ['sort_files']
+
 # def sort_files(source_dir):
 #     video_ext = ['.mp4', '.mov', '.mkv']
 #     image_ext = ['.png', '.jpg', 'jpeg']
@@ -48,4 +50,4 @@ def sort_files(path: Path, groups: dict[Path, list[str]]) -> None:
 
 
 if __name__ == '__main__':
-    
+    sort_files(Path(r'C:\Users\User\Desktop\diving_into_python\sem7'))

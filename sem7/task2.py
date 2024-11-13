@@ -6,9 +6,9 @@ import string
 from pathlib import Path
 from random import choice
 
+__all__ = ['random_name_file']
 MIN_LIMIT = 4
 MAX_LIMIT = 7
-
 
 # 1 вариант решения
 # def random_name_file(cnt_str: int, file_name: str | Path):
@@ -45,8 +45,6 @@ def random_name_file(cnt_str: int, file_name: str | Path):
         with open(file_name, 'a', encoding='UTF-8') as f:
             f.write(name.title() + '\n')
 
-random_name_file(10, 'ramdon_name.txt')
-
 
 # 3 вариант решения
 #
@@ -60,3 +58,5 @@ random_name_file(10, 'ramdon_name.txt')
 #
 # random_name_file(10, 'ramdon_name.txt')
 
+if __name__ == '__main__':
+    random_name_file(10, 'ramdon_name.txt')

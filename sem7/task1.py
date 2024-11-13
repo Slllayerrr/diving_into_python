@@ -7,6 +7,7 @@ from pathlib import Path
 
 MIN_LIMIT = -1000
 MAX_LIMIT = 1000
+__all__ = ['randon_append_file']
 
 
 def randon_append_file(cnt_str: int, file_name: str | Path) -> None:
@@ -17,4 +18,5 @@ def randon_append_file(cnt_str: int, file_name: str | Path) -> None:
             file.write(f'{int_num:>4}  |  {float_num}\n')
 
 
-randon_append_file(10, 'random_numbers.txt')
+if __name__ == '__main__':
+    randon_append_file(10, 'random_numbers.txt')
