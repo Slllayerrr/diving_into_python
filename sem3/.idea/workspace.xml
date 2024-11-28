@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5554b84-4478-42d5-9606-de18049bd68d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hw3/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem9/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem9/task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem7/hw1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem8/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/hw1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem8/traverse_dir.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/traverse_dir.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,28 +33,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oDTumIqrD68XnotGznrrTe9HEe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.task1.executor": "Run",
-    "Python.task2.executor": "Run",
-    "Python.task3.executor": "Run",
-    "Python.task4.executor": "Run",
-    "Python.task5.executor": "Run",
-    "Python.task6.executor": "Run",
-    "Python.task7.executor": "Run",
-    "Python.task8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.task8">
     <configuration name="task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sem3" />
