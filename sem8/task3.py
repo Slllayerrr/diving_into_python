@@ -20,4 +20,4 @@ def json_to_csv(file: Path) -> None:
 
 
 if __name__ == '__main__':
-    json_to_csv(Path('users.json'))
+    json_to_csv(Path('new_users.json'))

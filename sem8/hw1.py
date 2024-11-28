@@ -18,7 +18,7 @@ def save_results_to_join(list):
 def save_results_to_csv(list):
     fieldnames = ['имя', 'объект', 'размер в байтах', 'родительская директория']
     with open('traverse_dir.csv', 'w', newline='', encoding='utf-8') as f:
-        csv_write = csv.DictWriter(f, fieldnames=fieldnames, dialect='excel-tab')
+        csv_write = csv.DictWriter(f, fieldnames=fieldnames, dialect='excel')
         csv_write.writeheader()
         csv_write.writerows(list)
 

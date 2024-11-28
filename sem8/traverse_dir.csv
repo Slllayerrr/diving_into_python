@@ -1,10 +1,10 @@
-имя	объект	размер в байтах	родительская директория
-lalala	dir	2170	
-task1.py	file	851	C:\Users\User\Desktop\obxod_file
-task2.py	file	432	C:\Users\User\Desktop\obxod_file
-task3.py	file	624	C:\Users\User\Desktop\obxod_file
-task4.py	file	570	C:\Users\User\Desktop\obxod_file
-task5.py	file	1228	C:\Users\User\Desktop\obxod_file
-_NE_NEW_003.txt	file	292	C:\Users\User\Desktop\obxod_file
-_NE_NEW_004.txt	file	74	C:\Users\User\Desktop\obxod_file
-папка1	dir	1010	
+имя,объект,размер в байтах,родительская директория
+lalala,dir,2170,
+task1.py,file,851,C:\Users\User\Desktop\obxod_file
+task2.py,file,432,C:\Users\User\Desktop\obxod_file
+task3.py,file,624,C:\Users\User\Desktop\obxod_file
+task4.py,file,570,C:\Users\User\Desktop\obxod_file
+task5.py,file,1228,C:\Users\User\Desktop\obxod_file
+_NE_NEW_003.txt,file,292,C:\Users\User\Desktop\obxod_file
+_NE_NEW_004.txt,file,74,C:\Users\User\Desktop\obxod_file
+папка1,dir,1010,
