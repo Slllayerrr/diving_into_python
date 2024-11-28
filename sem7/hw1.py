@@ -31,4 +31,4 @@ def rename_files(
             Path(f'{file.name}').rename(f'{range_name}{desired_name}{str(count).zfill(num_digit)}{expan_new}')
 
 
-rename_files(Path(r'C:\Users\User\Desktop\diving_into_python\sem7'), '_NEW_', 3, '.doc', '.txt', [3, 6])
+rename_files(Path(r'C:\Users\User\Desktop\diving_into_python\sem7'), '_NEW_', 3, '.txt', '.doc', [3, 6])
