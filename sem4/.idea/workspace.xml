@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09bb62b2-9ea8-468d-b4e7-1a68dd4c54cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hw3/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem9/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sem9/task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/_NE_NEW_004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem7/hw1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem7/result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem8/hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/hw1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem8/traverse_dir.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/traverse_dir.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
