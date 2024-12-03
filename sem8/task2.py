@@ -17,8 +17,10 @@ def set_users(user_file: Path) -> None:
     else:
         with open(user_file, 'r', encoding='utf-8') as file:
             data = json.load(file)
+
             for dict_level in data.values():
                 uniq_id.update(dict_level)
+    print(data)
 
     while True:
         name = input('Введите имя: ')
