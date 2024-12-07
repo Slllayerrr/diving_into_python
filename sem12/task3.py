@@ -32,6 +32,6 @@ class Factorial:
 
 if __name__ == '__main__':
     fact = Factorial(15)
+    print(*fact)
     for num in fact:
         print(num, end=' ')
-        time.sleep(2)

@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="44fc890d-7ccc-4a40-a004-59af967e72a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../sem11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem13/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem13/task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sem8/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sem8/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem8/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/users.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,29 +30,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2pg5pmG1gmqa6zpSta0BcPqrosg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.hw1.executor": "Run",
-    "Python.task1.executor": "Run",
-    "Python.task2.executor": "Run",
-    "Python.task3.executor": "Run",
-    "Python.task4.executor": "Run",
-    "Python.task5.executor": "Run",
-    "Python.task6.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.hw1">
+}</component>
+  <component name="RunManager" selected="Python.task3">
     <configuration name="hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sem12" />
       <option name="ENV_FILES" value="" />
@@ -69,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sem12" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task3" />
         <item itemvalue="Python.hw1" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.task6" />
         <item itemvalue="Python.task5" />
-        <item itemvalue="Python.task4" />
       </list>
     </recent_temporary>
   </component>
