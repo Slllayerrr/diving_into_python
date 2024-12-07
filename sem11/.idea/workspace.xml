@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af3ed2a-5b11-40da-96a3-06778d8002e2" name="Changes" comment="" />
+    <list default="true" id="7af3ed2a-5b11-40da-96a3-06778d8002e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem13/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem13/task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sem6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem8/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sem8/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sem8/users.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
