@@ -20,7 +20,6 @@ def set_users(user_file: Path) -> None:
 
             for dict_level in data.values():
                 uniq_id.update(dict_level)
-    print(data)
 
     while True:
         name = input('Введите имя: ')
