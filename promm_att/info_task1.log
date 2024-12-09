@@ -1,0 +1,3 @@
+ERROR:root:Не все параметры являются числом. unsupported operand type(s) for ** or pow(): 'str' and 'int'
+INFO:__main__:Функция: discriminant(), a: -1, b: jera, c: 8, результат: None
+INFO:__main__:Функция: discriminant(), a: -1, b: 7, c: 8, результат: -1.0, 8.0

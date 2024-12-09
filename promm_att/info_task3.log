@@ -1,0 +1,8 @@
+ERROR:__main__: В пути "D:Data/MyFile/silepng" нет ".". not enough values to unpack (expected 2, got 1)
+INFO:__main__: Путь: "D:Data/MyFile/silepng", результат: None
+ERROR:__main__: В пути "D:Data/MyFile/silepng" нет ".". not enough values to unpack (expected 2, got 1)
+INFO:__main__: Путь: "D:Data/MyFile/silepng", результат: None
+ERROR:__main__: В пути "D:Data/MyFile/silepng" нет ".". not enough values to unpack (expected 2, got 1)
+INFO:__main__: Путь: "D:Data/MyFile/silepng", результат: None
+INFO:__main__: Путь: "D:Data/MyFile/sile.png", результат: ('D:Data/MyFile/sile.png', 'sile', 'png')
+INFO:__main__: Путь: "D:Data/MyFile/sile.png", результат: ('D:Data/MyFile/sile.png', 'sile', 'png')
